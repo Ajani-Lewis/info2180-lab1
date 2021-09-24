@@ -1,3 +1,3 @@
 # info2180-lab1
 
-This is Lab 1 for <Ajani Lewis>
+This is Lab 1 for Ajani Lewis
